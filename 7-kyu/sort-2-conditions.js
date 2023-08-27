@@ -1,4 +1,5 @@
 /*
+https://www.codewars.com/kata/572df796914b5ba27c000c90/javascript
 Task
 Coding in function sortIt. function accept 1 parameters arr, it's a number array. Your task is to sort the array according to the specified conditions, and returns a new array(should not modify the original array).
 
